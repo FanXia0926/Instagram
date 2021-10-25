@@ -21,7 +21,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://www.math.ucsd.edu/~dumitriu/m170a.html' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/pVZfqIJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
